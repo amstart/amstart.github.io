@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[977],{8977:function(e,n,t){t.r(n),t.d(n,{default:function(){return c}});var u=t(5893),r=t(761);function c(){return(0,u.jsx)(r.cy,{url:"https://calendly.com/amstart/kennenlernen",rootElement:document.getElementById("__next"),text:"Lerne uns kennen",className:"font-bold m-auto text-white"})}}}]);
