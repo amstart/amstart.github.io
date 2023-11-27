@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[977],{8977:function(e,t,n){n.r(t),n.d(t,{default:function(){return r}});var s=n(5893);function r(){return(0,s.jsx)("a",{className:"font-bold m-auto text-white text-sm s:text-base xl:text-lg",href:"https://termin.amstart.net/ms/kennenlernen",target:"_blank",children:"Lerne uns kennen"})}}}]);
